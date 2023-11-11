@@ -1,0 +1,6 @@
+.elem-div {
+    width: 200px;
+    height: 100px;
+    border: 2px solid #333;
+    cursor: pointer;
+  }
