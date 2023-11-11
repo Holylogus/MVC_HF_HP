@@ -17,7 +17,7 @@ class ElemView{
 
         document.body.appendChild(divElem);
 
-        return pElem;
+        return divElem;
     }
 
     updateMessage(message){
